@@ -1,4 +1,4 @@
-import { Header } from './components';
+import { Header, Footer } from './components';
 
 function App() {
   return (
@@ -11,6 +11,8 @@ function App() {
         </p>
         {/* Additional content can be added here */}
       </main>
+
+      <Footer />
     </div>
   )}
 
