@@ -1,31 +1,31 @@
 # Katakan Tidak pada Narkoba - Web Edukasi & Kampanye
 
-Aplikasi web edukasi dan kampanye anti-narkoba berbasis React + Vite + Tailwind CSS.
+Aplikasi web edukasi dan kampanye anti-narkoba berbasis React, Vite, dan Tailwind CSS. Aplikasi ini memberikan informasi, edukasi, dan kampanye pencegahan narkoba dengan tampilan modern, responsif, serta fitur multimedia.
 
 ## Fitur Utama
 - Penjelasan tentang narkoba dan bahayanya
-- Tabel jenis narkoba dan efeknya
 - Video edukasi dari YouTube
 - Pesan suara anti-narkoba (audio)
-- Form dukungan gerakan anti-narkoba
-- Sumber daya tambahan (tautan ke BNN)
 - Desain modern, responsif, dan mudah digunakan
 
 ## Struktur Folder
 ```
 project-root/
   public/
+    anti_narkoba.svg
     assets/
       audio/
-        audio.mp3   # File audio pesan anti-narkoba
+        audio.mp3   # File audio pesan anti-narkoba (letakkan di sini)
   src/
     App.tsx        # Komponen utama aplikasi
     main.tsx       # Entry point React
     index.css      # Tailwind CSS
+    components/    # Mengelola Components
+    assets/        # Mengelola Assets
   index.html
   package.json
-  tailwind.config.js
   vite.config.ts
+  tsconfig.json
   ...
 ```
 
