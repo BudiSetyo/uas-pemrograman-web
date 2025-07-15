@@ -13,9 +13,6 @@ Aplikasi web edukasi dan kampanye anti-narkoba berbasis React, Vite, dan Tailwin
 project-root/
   public/
     anti_narkoba.svg
-    assets/
-      audio/
-        audio.mp3   # File audio pesan anti-narkoba (letakkan di sini)
   src/
     App.tsx        # Komponen utama aplikasi
     main.tsx       # Entry point React
