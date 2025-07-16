@@ -1,4 +1,4 @@
-import { Header, Footer, FormSection, IntroSection, SlideSection, TypeSection } from './components';
+import { Header, Footer, FormSection, IntroSection, SlideSection, TypeSection, NarcoticsInfoSection, HarmfulEffectsSection } from './components';
 import { Mail } from 'lucide-react';
 import audioPesan from './assets/audio/audio.mp3';
 
@@ -13,6 +13,10 @@ function App() {
         <SlideSection />
 
         <TypeSection />
+
+        <NarcoticsInfoSection />
+
+        <HarmfulEffectsSection />
         {/* Audio Message */}
         <section className="mb-16">
           <div className="bg-white rounded-xl shadow-lg p-8">
