@@ -1,4 +1,4 @@
-import { Header, Footer, FormSection } from './components';
+import { Header, Footer, FormSection, IntroSection, SlideSection, TypeSection } from './components';
 import { Mail } from 'lucide-react';
 import audioPesan from './assets/audio/audio.mp3';
 
@@ -8,6 +8,11 @@ function App() {
       <Header />
       <main className="container mx-auto px-6 py-12">
 
+        <IntroSection />
+
+        <SlideSection />
+
+        <TypeSection />
         {/* Audio Message */}
         <section className="mb-16">
           <div className="bg-white rounded-xl shadow-lg p-8">
