@@ -4,3 +4,5 @@ export { FormSection } from './FormSection';
 export { IntroSection } from './IntroSection';
 export { SlideSection } from './SlideSection';
 export { TypeSection } from './TypeSection';
+export { NarcoticsInfoSection } from './NarcoticsInfoSection'
+export { HarmfulEffectsSection } from './HarmfulEffectsSection'
