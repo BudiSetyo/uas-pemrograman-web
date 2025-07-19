@@ -28,17 +28,17 @@ export function SlideSection() {
             <div id="default-carousel" className="relative w-full" data-carousel="slide">
                 <div className="relative h-56 overflow-hidden rounded-lg md:h-200">
                     <div className="hidden duration-700 ease-in-out" data-carousel-item>
-                        <img src="../public/pexels-photo-5699456.jpeg?cs=tinysrgb&w=800" 
+                        <img src="https://github.com/BudiSetyo/uas-pemrograman-web/blob/master/public/pexels-photo-5699456.jpeg?raw=true" 
                         className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
                         alt="..." />
                     </div>
                     <div className="hidden duration-700 ease-in-out" data-carousel-item>
-                        <img src="../public/pexels-photo-5699457.jpeg" 
+                        <img src="https://github.com/BudiSetyo/uas-pemrograman-web/blob/master/public/pexels-photo-5699457.jpeg?raw=true" 
                         className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" 
                         alt="..." />
                     </div>
                     <div className="hidden duration-700 ease-in-out" data-carousel-item>
-                        <img src="../public/pexels-photo-5699458.jpeg" 
+                        <img src="https://github.com/BudiSetyo/uas-pemrograman-web/blob/master/public/pexels-photo-5699458.jpeg?raw=true" 
                         className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
                         alt="..." />
                     </div>
