@@ -6,3 +6,6 @@ export { SlideSection } from './SlideSection';
 export { TypeSection } from './TypeSection';
 export { NarcoticsInfoSection } from './NarcoticsInfoSection'
 export { HarmfulEffectsSection } from './HarmfulEffectsSection'
+export { YoutubeSection } from './YoutubeSection'
+export { AudioSection } from './AudioSection'
+export { AdditionalSupportSection } from './AdditionalSupportSection'
